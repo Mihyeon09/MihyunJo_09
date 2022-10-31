@@ -202,3 +202,93 @@ ul, ol, li {
     font-family: 'Pretendard';
 }
 
+.name_award {
+    height: fill;
+    align-content: space-around;
+}
+
+.name {
+    width: 100vw;
+    height: auto;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    font-size: 8rem;
+    font-family: arboria, sans-serif;
+    font-weight: 800;
+    letter-spacing: -0.1rem;
+}
+
+.ko_name {
+    font-family: 'Pretendard';
+    font-weight: 100;
+    letter-spacing: -0.05rem;
+    font-size: 18px;
+    margin-left: 6rem;
+    margin-top: 2rem;
+    line-height: 1.8rem;
+}
+
+.edu {
+    display: inline-block;
+    width: 300px;
+    height: auto;
+    margin-left: 7rem;
+    line-height: 1.4rem;
+    font-family: arboria, sans-serif;
+    font-weight: 100;
+    font-size: 0.9rem;
+    align-items: top;
+}
+
+.edu_award {
+    display: flex;
+    align-items: top;
+}
+
+.work_extra{
+    margin-top: 1rem;
+    display: flex;
+    align-items: top;
+}
+
+.info_title {
+    display: inline-block;
+    line-height: 1.4rem;
+    font-family: arboria, sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.work {
+    display: inline-block;
+    width: 300px;
+    height: auto;
+    margin-left: 7rem;
+    line-height: 1.4rem;
+    font-family: arboria, sans-serif;
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+.extra{
+    display: inline-block;
+    width: fit-content;
+    height: auto;
+    margin-left: 7rem;
+    line-height: 1.4rem;
+    font-family: arboria, sans-serif;
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+.award{
+    display: inline-block;
+    width: fit-content;
+    height: auto;
+    margin-left: 7rem;
+    line-height: 1.4rem;
+    font-family: arboria, sans-serif;
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+
