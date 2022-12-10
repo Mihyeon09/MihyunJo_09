@@ -314,7 +314,7 @@ article:hover circle.cls-1 {
     font-weight: 800;
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 10rem;
+    font-size: 8rem;
     letter-spacing: -0.5rem;
     height: 7rem;
 }
@@ -511,10 +511,10 @@ article:hover circle.cls-1 {
 }
 
 .footer-title1-1 {
-    font-size: 8rem;
+    font-size: 6rem;
     font-family: arboria, sans-serif;
     font-weight: 800;
-    line-height: 6.5rem;
+    line-height: 5.5rem;
     letter-spacing: -0.2rem;
     margin-left: 1rem;
 }
