@@ -1,3 +1,7 @@
+/* <!-- SPDX-FileCopyrightText: © 2022 Mihyun.jo <jomihyeon09@gmail.com>
+SPDX-License-Identifier: BSD-3-Clause
+Don't copy and use my all works to anywhere. --> */
+
 @charset "utf-8";
 @media screen and (max-width: 800px) {
     #article {opacity: 0; transition-duration: 0.5s;
